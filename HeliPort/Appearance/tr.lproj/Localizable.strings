@@ -18,14 +18,14 @@
 "Create Diagnostics Report..." = "Tanı Raporu Oluştur...";
 "Create Network..." = "Ağ Oluştur...";
 "Disconnect from: " = "Bağlantıyı Kapat: ";
-"Dismiss" = "Dismiss"; // FIXME
+"Dismiss" = "Yoksay";
 "Dynamic WEP" = "Dinamik WEP";
 "Enable Wi-Fi Logging" = "Wi-Fi Tanılamayı Aç";
 "Enter the name and security type of the network you want to join." = "Bağlanmak istediğiniz kablosuz ağın adını ve güvenlik türünü girin.";
 "FUNCTION NOT IMPLEMENTED" = "FONKSİYON KULLANIMDA DEĞİL";
 "Find and join a Wi-Fi network." = "Wi-Fi ağ bağlantısını bul ve bağlan.";
 "HeliPort API Version: " = "HeliPort API Versiyon: ";
-"HeliPort running at an unexpected path" = "HeliPort running at an unexpected path"; // FIXME
+"HeliPort running at an unexpected path" = "HeliPort hatalı dizinde bulunuyor";
 "Interface Name: " = "Arayüz Adı: ";
 "Join Other Network..." = "Diğer Kablosuz Ağ'a Bağlan...";
 "Join" = "Bağlan";
@@ -70,4 +70,4 @@
 "\" Requires Password" = "\" Şifre Gerekli";
 "itlwm API Version: " = "itlwm API Versiyon: ";
 "itlwm Version Mismatch" = "itlwm Versiyonu Yanlış";
-"itlwm is not running" = "itlwm is not running"; // FIXME
+"itlwm is not running" = "itlwm çalışmıyor";
